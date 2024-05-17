@@ -1,7 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
 Meu nome e carlosEduardo
-Meu nome é Marcelo Paludetto
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
